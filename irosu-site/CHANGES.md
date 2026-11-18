@@ -88,7 +88,7 @@ The site now exists in seven versions. Visitors are sent to one by the country t
 | What | Where it is now |
 |---|---|
 | Where waitlist sign-ups go | Every "Join the waitlist" button opens the waitlist page (`access.html`, one per language), in the site's own style. Connected to the Formspree form `xvkarlkk` (the link is in `tools/i18n/form-endpoint.txt`; change it there and run `python tools/i18n/localise.py`). Still to do: one real test sign-up, and add the live domain to the form's allowed domains in Formspree. Tested: the error messages, the thank-you screen, and a real send to a local test receiver, which received every answer. |
-| Live web address | `https://heronaiapp.com/irosu/` (`SITE_URL`). Used for share links, the sitemap and search data. |
+| Live web address | `https://irosu.com/` (`SITE_URL`). Used for share links, the sitemap and search data. |
 | Pricing | "Free in beta" / "Soon". Set `plans_new` and the pricing lines. |
 | LinkedIn / X / Instagram | `#` (`SOCIAL`) |
 | Privacy policy and terms pages | `#`. Irosu needs its own. |

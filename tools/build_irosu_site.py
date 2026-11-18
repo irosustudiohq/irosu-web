@@ -17,7 +17,7 @@ OUT = r'C:\Users\edete\Desktop\clone\irosu-site'
 
 # ---- things only the founder can give: placeholders, listed in CHANGES.md ----
 CTA_URL = 'access.html'                               # the waitlist page (FORM_ENDPOINT inside it = where sign-ups go)
-SITE_URL = 'https://heronaiapp.com/irosu/'            # TODO confirm the live address
+SITE_URL = 'https://irosu.com/'         
 SOCIAL = {'linkedin': '#', 'x': '#', 'instagram': '#'}  # TODO real profiles
 CTA = 'Join the waitlist'
 
@@ -596,7 +596,7 @@ JS_TEXT = {
     'Layout.astro_astro_type_script_index_0_lang.CYij4Z1e.js': [('function fc(e,t={}){if(', 'function fc(e,t={}){return;if(', 1),
                                                                 ('`phc_qUUbDRGSfjDaj6cEm3aTRPWBAHQUNBsfUXKcfhqcM3e8`', '``', 1),
                                                                 ('`https://t.stabondar.com`', '``', 1),
-                                                                ('`loopsii.com`||e.endsWith(`.loopsii.com`)', '`heronaiapp.com`||e.endsWith(`.heronaiapp.com`)', 1)],
+                                                                ('`loopsii.com`||e.endsWith(`.loopsii.com`)', '`irosu.com`||e.endsWith(`.irosu.com`)', 1)],
     'Layout.astro_astro_type_script_index_0_lang.CYij4Z1e668d.js': [('function fc(e,t={}){if(', 'function fc(e,t={}){return;if(', 1),
                                                                 ('`phc_qUUbDRGSfjDaj6cEm3aTRPWBAHQUNBsfUXKcfhqcM3e8`', '``', 1),
                                                                 ('`https://t.stabondar.com`', '``', 1)],

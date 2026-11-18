@@ -22,7 +22,7 @@ import extract  # noqa: E402
 from extract import collect, norm  # noqa: E402
 
 SITE = extract.SITE
-SITE_URL = 'https://heronaiapp.com/irosu/'   # keep in step with build_irosu_site.SITE_URL
+SITE_URL = 'https://irosu.com/'   # keep in step with build_irosu_site.SITE_URL
 ROUTING = json.load(open(os.path.join(HERE, 'routing.json'), encoding='utf-8'))
 LOCALES = ROUTING['locales']          # code -> {name, html_lang, og_locale, file_slug, font, spelling?}
 ORDER = list(LOCALES)                 # switcher order

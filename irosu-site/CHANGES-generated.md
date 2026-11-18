@@ -11,8 +11,8 @@ Layout, CSS and animation code are untouched. This lists every text, link, colou
 | Loopsii is the all-in-one app for freelancers: CRM, project management, time tracking, AI notes from client calls and dictation. 14-day free trial, no card need | Irosu paints a whole anime cut from one painted key frame and flags every area it isn&#x27;t sure about. Gap closing, unpainted check, check mode and layered PS | 3 |
 | content="Loopsii: the all-in-one app for freelancers" | content="Irosu: colour-fill assist for anime finishing" | 2 |
 | <meta property="og:site_name" content="Loopsii"> | <meta property="og:site_name" content="Irosu"> | 1 |
-| https://loopsii.com/og.jpg?v=3 | https://heronaiapp.com/irosu/og.jpg | 2 |
-| content="https://loopsii.com/" | content="https://heronaiapp.com/irosu/" | 1 |
+| https://loopsii.com/og.jpg?v=3 | https://irosu.com/og.jpg | 2 |
+| content="https://loopsii.com/" | content="https://irosu.com/" | 1 |
 | content="@loopsiiapp" | content="" | 1 |
 
 ## scripts
@@ -34,7 +34,7 @@ Layout, CSS and animation code are untouched. This lists every text, link, colou
 | href="https://www.linkedin.com/company/loopsii/" | href="#" | 1 |
 | href="https://x.com/loopsiiapp" | href="#" | 1 |
 | href="https://www.instagram.com/loopsii.app/" | href="#" | 1 |
-| <script type="application/ld+json">[{"@context":"https://schema.org","@type":"Organization","name":"Loopsii","alternateName":["Loopsy","Loopsi","Loopsie","Лупсі | <script type="application/ld+json">[{"@context": "https://schema.org", "@type": "SoftwareApplication", "name": "Irosu", "url": "https://heronaiapp.com/irosu/",  | 1 |
+| <script type="application/ld+json">[{"@context":"https://schema.org","@type":"Organization","name":"Loopsii","alternateName":["Loopsy","Loopsi","Loopsie","Лупсі | <script type="application/ld+json">[{"@context": "https://schema.org", "@type": "SoftwareApplication", "name": "Irosu", "url": "https://irosu.com/", "applicatio | 1 |
 
 ## nav
 
@@ -595,7 +595,7 @@ Layout, CSS and animation code are untouched. This lists every text, link, colou
 | function fc(e,t={}){if( | function fc(e,t={}){return;if( | 1 |
 | `phc_qUUbDRGSfjDaj6cEm3aTRPWBAHQUNBsfUXKcfhqcM3e8` | `` | 1 |
 | `https://t.stabondar.com` | `` | 1 |
-| `loopsii.com`\|\|e.endsWith(`.loopsii.com`) | `heronaiapp.com`\|\|e.endsWith(`.heronaiapp.com`) | 1 |
+| `loopsii.com`\|\|e.endsWith(`.loopsii.com`) | `irosu.com`\|\|e.endsWith(`.irosu.com`) | 1 |
 
 ## script text: Layout.astro_astro_type_script_index_0_lang.CYij4Z1e668d.js
 
