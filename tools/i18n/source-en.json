@@ -1,0 +1,2749 @@
+{
+ "strings": [
+  {
+   "en": "Irosu: colour-fill assist for anime finishing",
+   "where": "index:head",
+   "before": "",
+   "after": "Irosu paints a whole anime cut from one painted key frame and flags every area it isn't sure about. Gap closing, unpainted check, check mode and layered PSD export, for finishing (仕上げ) studios."
+  },
+  {
+   "en": "Irosu paints a whole anime cut from one painted key frame and flags every area it isn't sure about. Gap closing, unpainted check, check mode and layered PSD export, for finishing (仕上げ) studios.",
+   "where": "index:head",
+   "before": "Irosu: colour-fill assist for anime finishing",
+   "after": "Irosu: colour-fill assist for anime finishing"
+  },
+  {
+   "en": "Sections",
+   "where": "index:nav",
+   "before": "Irosu paints a whole anime cut from one painted key frame and flags every area it isn't sure about. Gap closing, unpainted check, check mode and layered PSD export, for finishing (仕上げ) studios.",
+   "after": "Why Irosu"
+  },
+  {
+   "en": "Why Irosu",
+   "where": "index:nav",
+   "before": "Sections",
+   "after": "Features"
+  },
+  {
+   "en": "Features",
+   "where": "index:nav",
+   "before": "Why Irosu",
+   "after": "Pricing"
+  },
+  {
+   "en": "Pricing",
+   "where": "index:nav",
+   "before": "Features",
+   "after": "Join the waitlist"
+  },
+  {
+   "en": "Join the waitlist",
+   "where": "index:nav",
+   "before": "Pricing",
+   "after": "Start your first cut here"
+  },
+  {
+   "en": "Start your first cut here",
+   "where": "index:nav",
+   "before": "Join the waitlist",
+   "after": "One key frame, the whole cut, one calm check"
+  },
+  {
+   "en": "One key frame, the whole cut, one calm check",
+   "where": "index:nav",
+   "before": "Start your first cut here",
+   "after": "Join the waitlist"
+  },
+  {
+   "en": "LinkedIn",
+   "where": "index:nav",
+   "before": "Join the waitlist",
+   "after": "Instagram"
+  },
+  {
+   "en": "Instagram",
+   "where": "index:nav",
+   "before": "LinkedIn",
+   "after": "Privacy Policy"
+  },
+  {
+   "en": "Privacy Policy",
+   "where": "index:nav",
+   "before": "Instagram",
+   "after": "Terms & Conditions"
+  },
+  {
+   "en": "Terms & Conditions",
+   "where": "index:nav",
+   "before": "Privacy Policy",
+   "after": "Irosu, the colour-fill app for anime finishing"
+  },
+  {
+   "en": "Irosu, the colour-fill app for anime finishing",
+   "where": "index:hero",
+   "before": "Terms & Conditions",
+   "after": "One app for"
+  },
+  {
+   "en": "One app for",
+   "where": "index:hero",
+   "before": "Irosu, the colour-fill app for anime finishing",
+   "after": "your"
+  },
+  {
+   "en": "your",
+   "where": "index:hero",
+   "before": "One app for",
+   "after": "colour fill"
+  },
+  {
+   "en": "colour fill",
+   "where": "index:hero",
+   "before": "your",
+   "after": "gap checks"
+  },
+  {
+   "en": "gap checks",
+   "where": "index:hero",
+   "before": "colour fill",
+   "after": "colour charts"
+  },
+  {
+   "en": "colour charts",
+   "where": "index:hero",
+   "before": "gap checks",
+   "after": "key frames"
+  },
+  {
+   "en": "key frames",
+   "where": "index:hero",
+   "before": "colour charts",
+   "after": "check rounds"
+  },
+  {
+   "en": "check rounds",
+   "where": "index:hero",
+   "before": "key frames",
+   "after": "shadows"
+  },
+  {
+   "en": "shadows",
+   "where": "index:hero",
+   "before": "check rounds",
+   "after": "highlights"
+  },
+  {
+   "en": "highlights",
+   "where": "index:hero",
+   "before": "shadows",
+   "after": "retakes"
+  },
+  {
+   "en": "retakes",
+   "where": "index:hero",
+   "before": "highlights",
+   "after": "flags"
+  },
+  {
+   "en": "flags",
+   "where": "index:hero",
+   "before": "retakes",
+   "after": "PSD exports"
+  },
+  {
+   "en": "PSD exports",
+   "where": "index:hero",
+   "before": "flags",
+   "after": "cuts"
+  },
+  {
+   "en": "cuts",
+   "where": "index:hero",
+   "before": "PSD exports",
+   "after": "The colour-fill app for anime finishing (仕上げ). Paint one key frame and Irosu fills the rest of the cut, flagging every area it isn't sure about."
+  },
+  {
+   "en": "The colour-fill app for anime finishing (仕上げ). Paint one key frame and Irosu fills the rest of the cut, flagging every area it isn't sure about.",
+   "where": "index:hero",
+   "before": "cuts",
+   "after": "Fill"
+  },
+  {
+   "en": "Fill",
+   "where": "index:hero",
+   "before": "The colour-fill app for anime finishing (仕上げ). Paint one key frame and Irosu fills the rest of the cut, flagging every area it isn't sure about.",
+   "after": "Gap check"
+  },
+  {
+   "en": "Gap check",
+   "where": "index:hero",
+   "before": "Fill",
+   "after": "Colour chart"
+  },
+  {
+   "en": "Colour chart",
+   "where": "index:hero",
+   "before": "Gap check",
+   "after": "Export"
+  },
+  {
+   "en": "Export",
+   "where": "index:hero",
+   "before": "Colour chart",
+   "after": "What is Irosu"
+  },
+  {
+   "en": "What is Irosu",
+   "where": "index:intro",
+   "before": "Export",
+   "after": "Irosu helps finishing studios colour every frame of a cut from one painted key frame. There’s less filling by hand and more time for the frames that need a painter."
+  },
+  {
+   "en": "Irosu helps finishing studios colour every frame of a cut from one painted key frame. There’s less filling by hand and more time for the frames that need a painter.",
+   "where": "index:intro",
+   "before": "What is Irosu",
+   "after": "Every cut follows the same loop: key, fill, check, deliver. Irosu keeps it moving, so you always know what comes next."
+  },
+  {
+   "en": "Every cut follows the same loop: key, fill, check, deliver. Irosu keeps it moving, so you always know what comes next.",
+   "where": "index:intro",
+   "before": "Irosu helps finishing studios colour every frame of a cut from one painted key frame. There’s less filling by hand and more time for the frames that need a painter.",
+   "after": "Too many small fixes pulling you away"
+  },
+  {
+   "en": "Too many small fixes pulling you away",
+   "where": "index:distraction",
+   "before": "Every cut follows the same loop: key, fill, check, deliver. Irosu keeps it moving, so you always know what comes next.",
+   "after": "from the frames that actually matter"
+  },
+  {
+   "en": "from the frames that actually matter",
+   "where": "index:distraction",
+   "before": "Too many small fixes pulling you away",
+   "after": "Missed a gap in the hair"
+  },
+  {
+   "en": "Missed a gap in the hair",
+   "where": "index:distraction",
+   "before": "from the frames that actually matter",
+   "after": "Which one is the 影?"
+  },
+  {
+   "en": "Which one is the 影?",
+   "where": "index:distraction",
+   "before": "Missed a gap in the hair",
+   "after": "Speck left on frame 37"
+  },
+  {
+   "en": "Speck left on frame 37",
+   "where": "index:distraction",
+   "before": "Which one is the 影?",
+   "after": "Did the chart change again?"
+  },
+  {
+   "en": "Did the chart change again?",
+   "where": "index:distraction",
+   "before": "Speck left on frame 37",
+   "after": "Retake from the director"
+  },
+  {
+   "en": "Retake from the director",
+   "where": "index:distraction",
+   "before": "Did the chart change again?",
+   "after": "Line not closed. Again."
+  },
+  {
+   "en": "Line not closed. Again.",
+   "where": "index:distraction",
+   "before": "Retake from the director",
+   "after": "Hat or hair?"
+  },
+  {
+   "en": "Hat or hair?",
+   "where": "index:distraction",
+   "before": "Line not closed. Again.",
+   "after": "\"Same fill, 48 frames\""
+  },
+  {
+   "en": "\"Same fill, 48 frames\"",
+   "where": "index:distraction",
+   "before": "Hat or hair?",
+   "after": "Check every frame by eye"
+  },
+  {
+   "en": "Check every frame by eye",
+   "where": "index:distraction",
+   "before": "\"Same fill, 48 frames\"",
+   "after": "Export the PSD layers"
+  },
+  {
+   "en": "Export the PSD layers",
+   "where": "index:distraction",
+   "before": "Check every frame by eye",
+   "after": "Deadline is tomorrow"
+  },
+  {
+   "en": "Deadline is tomorrow",
+   "where": "index:distraction",
+   "before": "Export the PSD layers",
+   "after": "That's why Irosu"
+  },
+  {
+   "en": "That's why Irosu",
+   "where": "index:app-demo",
+   "before": "Deadline is tomorrow",
+   "after": "exists"
+  },
+  {
+   "en": "exists",
+   "where": "index:app-demo",
+   "before": "That's why Irosu",
+   "after": "The Irosu desktop app painting a cut from one key frame"
+  },
+  {
+   "en": "The Irosu desktop app painting a cut from one key frame",
+   "where": "index:app-demo",
+   "before": "exists",
+   "after": "Join the waitlist"
+  },
+  {
+   "en": "That's why Irosu exists",
+   "where": "index:dashboard",
+   "before": "Join the waitlist",
+   "after": "ST"
+  },
+  {
+   "en": "ST",
+   "where": "index:nav",
+   "before": "That's why Irosu exists",
+   "after": "Cuts"
+  },
+  {
+   "en": "Cuts",
+   "where": "index:nav",
+   "before": "ST",
+   "after": "Paint cut"
+  },
+  {
+   "en": "Paint cut",
+   "where": "index:nav",
+   "before": "Cuts",
+   "after": "Import"
+  },
+  {
+   "en": "Import",
+   "where": "index:nav",
+   "before": "Paint cut",
+   "after": "Flag"
+  },
+  {
+   "en": "Flag",
+   "where": "index:nav",
+   "before": "Import",
+   "after": "Area"
+  },
+  {
+   "en": "Area",
+   "where": "index:nav",
+   "before": "Flag",
+   "after": "Jacket trim, frame F04"
+  },
+  {
+   "en": "Jacket trim, frame F04",
+   "where": "index:nav",
+   "before": "Area",
+   "after": "Why"
+  },
+  {
+   "en": "Why",
+   "where": "index:nav",
+   "before": "Jacket trim, frame F04",
+   "after": "Two close colours: Colour 4 or 11"
+  },
+  {
+   "en": "Two close colours: Colour 4 or 11",
+   "where": "index:nav",
+   "before": "Why",
+   "after": "Frame"
+  },
+  {
+   "en": "Frame",
+   "where": "index:nav",
+   "before": "Two close colours: Colour 4 or 11",
+   "after": "F04 · area 118"
+  },
+  {
+   "en": "F04 · area 118",
+   "where": "index:nav",
+   "before": "Frame",
+   "after": "Pick"
+  },
+  {
+   "en": "Pick",
+   "where": "index:nav",
+   "before": "F04 · area 118",
+   "after": "1 or 2"
+  },
+  {
+   "en": "1 or 2",
+   "where": "index:nav",
+   "before": "Pick",
+   "after": "Scope"
+  },
+  {
+   "en": "Scope",
+   "where": "index:nav",
+   "before": "1 or 2",
+   "after": "this frame on"
+  },
+  {
+   "en": "this frame on",
+   "where": "index:nav",
+   "before": "Scope",
+   "after": "Check"
+  },
+  {
+   "en": "Check",
+   "where": "index:nav",
+   "before": "this frame on",
+   "after": "Director left 2 notes on C112"
+  },
+  {
+   "en": "Director left 2 notes on C112",
+   "where": "index:nav",
+   "before": "Check",
+   "after": "waiting for you"
+  },
+  {
+   "en": "waiting for you",
+   "where": "index:nav",
+   "before": "Director left 2 notes on C112",
+   "after": "Needs input"
+  },
+  {
+   "en": "Needs input",
+   "where": "index:nav",
+   "before": "waiting for you",
+   "after": "New line frames added to C113"
+  },
+  {
+   "en": "New line frames added to C113",
+   "where": "index:nav",
+   "before": "Needs input",
+   "after": "2h ago"
+  },
+  {
+   "en": "2h ago",
+   "where": "index:nav",
+   "before": "New line frames added to C113",
+   "after": "Needs input"
+  },
+  {
+   "en": "C111 approved, 24 frames",
+   "where": "index:nav",
+   "before": "Needs input",
+   "after": "5h ago"
+  },
+  {
+   "en": "5h ago",
+   "where": "index:nav",
+   "before": "C111 approved, 24 frames",
+   "after": "Needs input"
+  },
+  {
+   "en": "Frames",
+   "where": "index:nav",
+   "before": "Needs input",
+   "after": "Done"
+  },
+  {
+   "en": "Done",
+   "where": "index:nav",
+   "before": "Frames",
+   "after": "approved"
+  },
+  {
+   "en": "approved",
+   "where": "index:nav",
+   "before": "Done",
+   "after": "Flagged"
+  },
+  {
+   "en": "Flagged",
+   "where": "index:nav",
+   "before": "approved",
+   "after": "to check"
+  },
+  {
+   "en": "to check",
+   "where": "index:nav",
+   "before": "Flagged",
+   "after": "Sent back"
+  },
+  {
+   "en": "Sent back",
+   "where": "index:nav",
+   "before": "to check",
+   "after": "retakes"
+  },
+  {
+   "en": "C111",
+   "where": "index:nav",
+   "before": "retakes",
+   "after": "24 frames"
+  },
+  {
+   "en": "24 frames",
+   "where": "index:nav",
+   "before": "C111",
+   "after": "C112"
+  },
+  {
+   "en": "C112",
+   "where": "index:nav",
+   "before": "24 frames",
+   "after": "10 frames"
+  },
+  {
+   "en": "10 frames",
+   "where": "index:nav",
+   "before": "C112",
+   "after": "C113"
+  },
+  {
+   "en": "C113",
+   "where": "index:nav",
+   "before": "10 frames",
+   "after": "18 frames"
+  },
+  {
+   "en": "18 frames",
+   "where": "index:nav",
+   "before": "C113",
+   "after": "Check"
+  },
+  {
+   "en": "areas filled",
+   "where": "index:nav",
+   "before": "Frames",
+   "after": "Key"
+  },
+  {
+   "en": "Key",
+   "where": "index:nav",
+   "before": "areas filled",
+   "after": "Export"
+  },
+  {
+   "en": "Layered PSD",
+   "where": "index:nav",
+   "before": "C112",
+   "after": "ready"
+  },
+  {
+   "en": "ready",
+   "where": "index:nav",
+   "before": "Layered PSD",
+   "after": "Layered PSD"
+  },
+  {
+   "en": "9 files",
+   "where": "index:nav",
+   "before": "Layered PSD",
+   "after": "Lines layer"
+  },
+  {
+   "en": "Lines layer",
+   "where": "index:nav",
+   "before": "9 files",
+   "after": "on"
+  },
+  {
+   "en": "on",
+   "where": "index:nav",
+   "before": "Lines layer",
+   "after": "Flags layer"
+  },
+  {
+   "en": "Flags layer",
+   "where": "index:nav",
+   "before": "on",
+   "after": "on"
+  },
+  {
+   "en": "Total",
+   "where": "index:nav",
+   "before": "on",
+   "after": "27 layers"
+  },
+  {
+   "en": "27 layers",
+   "where": "index:nav",
+   "before": "Total",
+   "after": "Export"
+  },
+  {
+   "en": "Open folder",
+   "where": "index:nav",
+   "before": "Export",
+   "after": "Communication"
+  },
+  {
+   "en": "Communication",
+   "where": "index:nav",
+   "before": "Open folder",
+   "after": "today"
+  },
+  {
+   "en": "today",
+   "where": "index:nav",
+   "before": "Communication",
+   "after": "Cut"
+  },
+  {
+   "en": "Cut",
+   "where": "index:nav",
+   "before": "today",
+   "after": "C112"
+  },
+  {
+   "en": "Chapters",
+   "where": "index:nav",
+   "before": "10 frames",
+   "after": "Flags"
+  },
+  {
+   "en": "Flags",
+   "where": "index:nav",
+   "before": "Chapters",
+   "after": "Layers"
+  },
+  {
+   "en": "Layers",
+   "where": "index:nav",
+   "before": "Flags",
+   "after": "Reference"
+  },
+  {
+   "en": "Reference",
+   "where": "index:nav",
+   "before": "Layers",
+   "after": "Key frame painted, chart set"
+  },
+  {
+   "en": "Key frame painted, chart set",
+   "where": "index:nav",
+   "before": "Reference",
+   "after": "Key"
+  },
+  {
+   "en": "Line frames",
+   "where": "index:nav",
+   "before": "Key",
+   "after": "ready"
+  },
+  {
+   "en": "Painted key (PSD)",
+   "where": "index:nav",
+   "before": "ready",
+   "after": "to do"
+  },
+  {
+   "en": "to do",
+   "where": "index:nav",
+   "before": "Painted key (PSD)",
+   "after": "Colour chart"
+  },
+  {
+   "en": "Export settings",
+   "where": "index:nav",
+   "before": "to do",
+   "after": "ready"
+  },
+  {
+   "en": "Progress",
+   "where": "index:nav",
+   "before": "ready",
+   "after": "W1"
+  },
+  {
+   "en": "W1",
+   "where": "index:nav",
+   "before": "Progress",
+   "after": "W2"
+  },
+  {
+   "en": "W2",
+   "where": "index:nav",
+   "before": "W1",
+   "after": "W3"
+  },
+  {
+   "en": "W3",
+   "where": "index:nav",
+   "before": "W2",
+   "after": "W4"
+  },
+  {
+   "en": "W4",
+   "where": "index:nav",
+   "before": "W3",
+   "after": "W5"
+  },
+  {
+   "en": "W5",
+   "where": "index:nav",
+   "before": "W4",
+   "after": "Join the waitlist"
+  },
+  {
+   "en": "the frame-by-frame tax",
+   "where": "index:why-irosu",
+   "before": "Join the waitlist",
+   "after": "Your finish shouldn’t take this long"
+  },
+  {
+   "en": "Your finish shouldn’t take this long",
+   "where": "index:why-irosu",
+   "before": "the frame-by-frame tax",
+   "after": "Fill"
+  },
+  {
+   "en": "every area, by hand",
+   "where": "index:why-irosu",
+   "before": "Fill",
+   "after": "by hand"
+  },
+  {
+   "en": "by hand",
+   "where": "index:why-irosu",
+   "before": "every area, by hand",
+   "after": "Gaps"
+  },
+  {
+   "en": "Gaps",
+   "where": "index:why-irosu",
+   "before": "by hand",
+   "after": "close open lines"
+  },
+  {
+   "en": "close open lines",
+   "where": "index:why-irosu",
+   "before": "Gaps",
+   "after": "by hand"
+  },
+  {
+   "en": "Chart",
+   "where": "index:why-irosu",
+   "before": "by hand",
+   "after": "look up each colour"
+  },
+  {
+   "en": "look up each colour",
+   "where": "index:why-irosu",
+   "before": "Chart",
+   "after": "by hand"
+  },
+  {
+   "en": "Specks",
+   "where": "index:why-irosu",
+   "before": "by hand",
+   "after": "find what was missed"
+  },
+  {
+   "en": "find what was missed",
+   "where": "index:why-irosu",
+   "before": "Specks",
+   "after": "by hand"
+  },
+  {
+   "en": "Retakes",
+   "where": "index:why-irosu",
+   "before": "by hand",
+   "after": "redo after changes"
+  },
+  {
+   "en": "redo after changes",
+   "where": "index:why-irosu",
+   "before": "Retakes",
+   "after": "by hand"
+  },
+  {
+   "en": "layers, frame by frame",
+   "where": "index:why-irosu",
+   "before": "Export",
+   "after": "by hand"
+  },
+  {
+   "en": "pick the colour",
+   "where": "index:why-irosu",
+   "before": "by hand",
+   "after": "from the chart again"
+  },
+  {
+   "en": "from the chart again",
+   "where": "index:why-irosu",
+   "before": "pick the colour",
+   "after": "close the gap"
+  },
+  {
+   "en": "close the gap",
+   "where": "index:why-irosu",
+   "before": "from the chart again",
+   "after": "before you fill"
+  },
+  {
+   "en": "before you fill",
+   "where": "index:why-irosu",
+   "before": "close the gap",
+   "after": "find the speck"
+  },
+  {
+   "en": "find the speck",
+   "where": "index:why-irosu",
+   "before": "before you fill",
+   "after": "by eye"
+  },
+  {
+   "en": "by eye",
+   "where": "index:why-irosu",
+   "before": "find the speck",
+   "after": "export the layers"
+  },
+  {
+   "en": "export the layers",
+   "where": "index:why-irosu",
+   "before": "by eye",
+   "after": "frame by frame"
+  },
+  {
+   "en": "frame by frame",
+   "where": "index:why-irosu",
+   "before": "export the layers",
+   "after": "passes a frame"
+  },
+  {
+   "en": "passes a frame",
+   "where": "index:why-irosu",
+   "before": "frame by frame",
+   "after": "tools to switch"
+  },
+  {
+   "en": "tools to switch",
+   "where": "index:why-irosu",
+   "before": "passes a frame",
+   "after": "you keep"
+  },
+  {
+   "en": "you keep",
+   "where": "index:why-irosu",
+   "before": "tools to switch",
+   "after": "them"
+  },
+  {
+   "en": "them",
+   "where": "index:why-irosu",
+   "before": "you keep",
+   "after": "consistent"
+  },
+  {
+   "en": "consistent",
+   "where": "index:why-irosu",
+   "before": "them",
+   "after": "Your whole finish,"
+  },
+  {
+   "en": "Your whole finish,",
+   "where": "index:why-irosu",
+   "before": "consistent",
+   "after": "in one app"
+  },
+  {
+   "en": "in one app",
+   "where": "index:why-irosu",
+   "before": "Your whole finish,",
+   "after": "Every frame,"
+  },
+  {
+   "en": "Every frame,",
+   "where": "index:why-irosu",
+   "before": "in one app",
+   "after": "connected."
+  },
+  {
+   "en": "connected.",
+   "where": "index:why-irosu",
+   "before": "Every frame,",
+   "after": "Key frame"
+  },
+  {
+   "en": "Key frame",
+   "where": "index:why-irosu",
+   "before": "connected.",
+   "after": "Fill"
+  },
+  {
+   "en": "All of the above",
+   "where": "index:why-irosu",
+   "before": "Check",
+   "after": "key"
+  },
+  {
+   "en": "key",
+   "where": "index:why-irosu",
+   "before": "All of the above",
+   "after": "Bring the cut in as it is"
+  },
+  {
+   "en": "Bring the cut in as it is",
+   "where": "index:why-irosu",
+   "before": "key",
+   "after": "Drop in line frames (PNG, TGA, TIFF, PSD), the painted key and the colour chart. Frame numbers, sizes and layers are read for you."
+  },
+  {
+   "en": "Drop in line frames (PNG, TGA, TIFF, PSD), the painted key and the colour chart. Frame numbers, sizes and layers are read for you.",
+   "where": "index:why-irosu",
+   "before": "Bring the cut in as it is",
+   "after": "Join the waitlist"
+  },
+  {
+   "en": "Everything around the fill, handled",
+   "where": "index:highlights",
+   "before": "Join the waitlist",
+   "after": "Paint the whole cut from one key"
+  },
+  {
+   "en": "Paint the whole cut from one key",
+   "where": "index:highlights",
+   "before": "Everything around the fill, handled",
+   "after": "Paint one key frame. Irosu matches every area in the other frames by shape and neighbours, and fills it."
+  },
+  {
+   "en": "Paint one key frame. Irosu matches every area in the other frames by shape and neighbours, and fills it.",
+   "where": "index:highlights",
+   "before": "Paint the whole cut from one key",
+   "after": "Fill from the painted key"
+  },
+  {
+   "en": "Fill from the painted key",
+   "where": "index:highlights",
+   "before": "Paint one key frame. Irosu matches every area in the other frames by shape and neighbours, and fills it.",
+   "after": "Matched by shape and neighbours"
+  },
+  {
+   "en": "Matched by shape and neighbours",
+   "where": "index:highlights",
+   "before": "Fill from the painted key",
+   "after": "Shadows (影) and highlights (ハイ)"
+  },
+  {
+   "en": "Shadows (影) and highlights (ハイ)",
+   "where": "index:highlights",
+   "before": "Matched by shape and neighbours",
+   "after": "Progress for every frame"
+  },
+  {
+   "en": "Progress for every frame",
+   "where": "index:highlights",
+   "before": "Shadows (影) and highlights (ハイ)",
+   "after": "Areas filled"
+  },
+  {
+   "en": "Areas filled",
+   "where": "index:highlights",
+   "before": "Progress for every frame",
+   "after": "of"
+  },
+  {
+   "en": "of",
+   "where": "index:highlights",
+   "before": "Areas filled",
+   "after": "areas"
+  },
+  {
+   "en": "areas",
+   "where": "index:highlights",
+   "before": "of",
+   "after": "Filled"
+  },
+  {
+   "en": "Filled",
+   "where": "index:highlights",
+   "before": "areas",
+   "after": "3.80k"
+  },
+  {
+   "en": "3.80k",
+   "where": "index:highlights",
+   "before": "Filled",
+   "after": "Matched"
+  },
+  {
+   "en": "Matched",
+   "where": "index:highlights",
+   "before": "3.80k",
+   "after": "2.00k"
+  },
+  {
+   "en": "2.00k",
+   "where": "index:highlights",
+   "before": "Matched",
+   "after": "Flagged"
+  },
+  {
+   "en": "1.30k",
+   "where": "index:highlights",
+   "before": "Flagged",
+   "after": "Gaps"
+  },
+  {
+   "en": "1.15k",
+   "where": "index:highlights",
+   "before": "Gaps",
+   "after": "Left"
+  },
+  {
+   "en": "Left",
+   "where": "index:highlights",
+   "before": "1.15k",
+   "after": "1.75k"
+  },
+  {
+   "en": "1.75k",
+   "where": "index:highlights",
+   "before": "Left",
+   "after": "Every unsure area, flagged"
+  },
+  {
+   "en": "Every unsure area, flagged",
+   "where": "index:highlights",
+   "before": "1.75k",
+   "after": "Areas Irosu isn’t sure about get a flag with the two likely colours. Accept with A, or pick with 1 or 2."
+  },
+  {
+   "en": "Areas Irosu isn’t sure about get a flag with the two likely colours. Accept with A, or pick with 1 or 2.",
+   "where": "index:highlights",
+   "before": "Every unsure area, flagged",
+   "after": "Unsure colour"
+  },
+  {
+   "en": "Unsure colour",
+   "where": "index:highlights",
+   "before": "Areas Irosu isn’t sure about get a flag with the two likely colours. Accept with A, or pick with 1 or 2.",
+   "after": "Gap closed"
+  },
+  {
+   "en": "Gap closed",
+   "where": "index:highlights",
+   "before": "Unsure colour",
+   "after": "Matched by shape"
+  },
+  {
+   "en": "Matched by shape",
+   "where": "index:highlights",
+   "before": "Gap closed",
+   "after": "Unpainted"
+  },
+  {
+   "en": "Unpainted",
+   "where": "index:highlights",
+   "before": "Matched by shape",
+   "after": "Flags"
+  },
+  {
+   "en": "Open",
+   "where": "index:highlights",
+   "before": "Flags",
+   "after": "Urgent"
+  },
+  {
+   "en": "Urgent",
+   "where": "index:highlights",
+   "before": "Open",
+   "after": "Low"
+  },
+  {
+   "en": "Low",
+   "where": "index:highlights",
+   "before": "Urgent",
+   "after": "Low"
+  },
+  {
+   "en": "Normal",
+   "where": "index:highlights",
+   "before": "Low",
+   "after": "Medium"
+  },
+  {
+   "en": "Medium",
+   "where": "index:highlights",
+   "before": "Normal",
+   "after": "High"
+  },
+  {
+   "en": "High",
+   "where": "index:highlights",
+   "before": "Medium",
+   "after": "Urgent"
+  },
+  {
+   "en": "Reviewing",
+   "where": "index:highlights",
+   "before": "Urgent",
+   "after": "Normal"
+  },
+  {
+   "en": "Director",
+   "where": "index:highlights",
+   "before": "Normal",
+   "after": "Urgent"
+  },
+  {
+   "en": "You",
+   "where": "index:highlights",
+   "before": "Director",
+   "after": "Check the cut against the key"
+  },
+  {
+   "en": "Check the cut against the key",
+   "where": "index:highlights",
+   "before": "You",
+   "after": "Side by side with the key, overlaid or flipped. Approve the clean frames in one go and send the rest back with a note."
+  },
+  {
+   "en": "Side by side with the key, overlaid or flipped. Approve the clean frames in one go and send the rest back with a note.",
+   "where": "index:highlights",
+   "before": "Check the cut against the key",
+   "after": "Side by side with the key"
+  },
+  {
+   "en": "Side by side with the key",
+   "where": "index:highlights",
+   "before": "Side by side with the key, overlaid or flipped. Approve the clean frames in one go and send the rest back with a note.",
+   "after": "Overlay and flip"
+  },
+  {
+   "en": "Overlay and flip",
+   "where": "index:highlights",
+   "before": "Side by side with the key",
+   "after": "Approve clean frames"
+  },
+  {
+   "en": "Approve clean frames",
+   "where": "index:highlights",
+   "before": "Overlay and flip",
+   "after": "Send back with a note"
+  },
+  {
+   "en": "Send back with a note",
+   "where": "index:highlights",
+   "before": "Approve clean frames",
+   "after": "Cuts"
+  },
+  {
+   "en": "in check",
+   "where": "index:highlights",
+   "before": "Cuts",
+   "after": "Clean"
+  },
+  {
+   "en": "Clean",
+   "where": "index:highlights",
+   "before": "in check",
+   "after": "of 10 frames"
+  },
+  {
+   "en": "of 10 frames",
+   "where": "index:highlights",
+   "before": "Clean",
+   "after": "Ready by"
+  },
+  {
+   "en": "Ready by",
+   "where": "index:highlights",
+   "before": "of 10 frames",
+   "after": "Fri"
+  },
+  {
+   "en": "Fri",
+   "where": "index:highlights",
+   "before": "Ready by",
+   "after": "C112 · Fill"
+  },
+  {
+   "en": "C112 · Fill",
+   "where": "index:highlights",
+   "before": "Fri",
+   "after": "C112 · Check"
+  },
+  {
+   "en": "C112 · Check",
+   "where": "index:highlights",
+   "before": "C112 · Fill",
+   "after": "C113 · Retake"
+  },
+  {
+   "en": "C113 · Retake",
+   "where": "index:highlights",
+   "before": "C112 · Check",
+   "after": "F02"
+  },
+  {
+   "en": "F02",
+   "where": "index:highlights",
+   "before": "C113 · Retake",
+   "after": "F04"
+  },
+  {
+   "en": "F04",
+   "where": "index:highlights",
+   "before": "F02",
+   "after": "F06"
+  },
+  {
+   "en": "F06",
+   "where": "index:highlights",
+   "before": "F04",
+   "after": "F08"
+  },
+  {
+   "en": "F08",
+   "where": "index:highlights",
+   "before": "F06",
+   "after": "F10"
+  },
+  {
+   "en": "F10",
+   "where": "index:highlights",
+   "before": "F08",
+   "after": "You"
+  },
+  {
+   "en": "Close gaps before they leak",
+   "where": "index:highlights",
+   "before": "You",
+   "after": "Open lines are closed before the fill, so one gap never floods a whole area. Every closed gap is shown so you can confirm it."
+  },
+  {
+   "en": "Open lines are closed before the fill, so one gap never floods a whole area. Every closed gap is shown so you can confirm it.",
+   "where": "index:highlights",
+   "before": "Close gaps before they leak",
+   "after": "Gap closing (隙間閉じ)"
+  },
+  {
+   "en": "Gap closing (隙間閉じ)",
+   "where": "index:highlights",
+   "before": "Open lines are closed before the fill, so one gap never floods a whole area. Every closed gap is shown so you can confirm it.",
+   "after": "Leak detection"
+  },
+  {
+   "en": "Leak detection",
+   "where": "index:highlights",
+   "before": "Gap closing (隙間閉じ)",
+   "after": "Max gap per cut"
+  },
+  {
+   "en": "Max gap per cut",
+   "where": "index:highlights",
+   "before": "Leak detection",
+   "after": "Confirm or skip each one"
+  },
+  {
+   "en": "Confirm or skip each one",
+   "where": "index:highlights",
+   "before": "Max gap per cut",
+   "after": "Closed"
+  },
+  {
+   "en": "Closed",
+   "where": "index:highlights",
+   "before": "Confirm or skip each one",
+   "after": "gaps"
+  },
+  {
+   "en": "gaps",
+   "where": "index:highlights",
+   "before": "Closed",
+   "after": "Hair line, 11 px"
+  },
+  {
+   "en": "Hair line, 11 px",
+   "where": "index:highlights",
+   "before": "gaps",
+   "after": "frame F04 · automatic"
+  },
+  {
+   "en": "frame F04 · automatic",
+   "where": "index:highlights",
+   "before": "Hair line, 11 px",
+   "after": "closed"
+  },
+  {
+   "en": "closed",
+   "where": "index:highlights",
+   "before": "frame F04 · automatic",
+   "after": "Sleeve edge, 13 px"
+  },
+  {
+   "en": "Sleeve edge, 13 px",
+   "where": "index:highlights",
+   "before": "closed",
+   "after": "frame F06 · automatic"
+  },
+  {
+   "en": "frame F06 · automatic",
+   "where": "index:highlights",
+   "before": "Sleeve edge, 13 px",
+   "after": "closed · check"
+  },
+  {
+   "en": "closed · check",
+   "where": "index:highlights",
+   "before": "frame F06 · automatic",
+   "after": "Possible leak, 1,488 px"
+  },
+  {
+   "en": "Possible leak, 1,488 px",
+   "where": "index:highlights",
+   "before": "closed · check",
+   "after": "frame F09 ·"
+  },
+  {
+   "en": "frame F09 ·",
+   "where": "index:highlights",
+   "before": "Possible leak, 1,488 px",
+   "after": "zoom in"
+  },
+  {
+   "en": "zoom in",
+   "where": "index:highlights",
+   "before": "frame F09 ·",
+   "after": "flagged · not filled"
+  },
+  {
+   "en": "flagged · not filled",
+   "where": "index:highlights",
+   "before": "zoom in",
+   "after": "Your colour chart, always open"
+  },
+  {
+   "en": "Your colour chart, always open",
+   "where": "index:highlights",
+   "before": "flagged · not filled",
+   "after": "Every part with its normal, shadow and highlight colours, in English and Japanese. Pick from the key, or import .aco, CSV or JSON."
+  },
+  {
+   "en": "Every part with its normal, shadow and highlight colours, in English and Japanese. Pick from the key, or import .aco, CSV or JSON.",
+   "where": "index:highlights",
+   "before": "Your colour chart, always open",
+   "after": "Normal / 影 / ハイ per part"
+  },
+  {
+   "en": "Normal / 影 / ハイ per part",
+   "where": "index:highlights",
+   "before": "Every part with its normal, shadow and highlight colours, in English and Japanese. Pick from the key, or import .aco, CSV or JSON.",
+   "after": "Pick colours from the key"
+  },
+  {
+   "en": "Pick colours from the key",
+   "where": "index:highlights",
+   "before": "Normal / 影 / ハイ per part",
+   "after": "Import and export .aco"
+  },
+  {
+   "en": "Import and export .aco",
+   "where": "index:highlights",
+   "before": "Pick colours from the key",
+   "after": "Live preview on the key"
+  },
+  {
+   "en": "Live preview on the key",
+   "where": "index:highlights",
+   "before": "Import and export .aco",
+   "after": "Colour chart ·"
+  },
+  {
+   "en": "Colour chart ·",
+   "where": "index:highlights",
+   "before": "Live preview on the key",
+   "after": "C112 · 16 parts"
+  },
+  {
+   "en": "C112 · 16 parts",
+   "where": "index:highlights",
+   "before": "Colour chart ·",
+   "after": "Which colour is the hair shadow?"
+  },
+  {
+   "en": "Which colour is the hair shadow?",
+   "where": "index:highlights",
+   "before": "C112 · 16 parts",
+   "after": "irosu"
+  },
+  {
+   "en": "irosu",
+   "where": "index:highlights",
+   "before": "Which colour is the hair shadow?",
+   "after": "chart"
+  },
+  {
+   "en": "chart",
+   "where": "index:highlights",
+   "before": "irosu",
+   "after": "irosu"
+  },
+  {
+   "en": "pick",
+   "where": "index:highlights",
+   "before": "irosu",
+   "after": "Hair 影 is Colour 4."
+  },
+  {
+   "en": "Hair 影 is Colour 4.",
+   "where": "index:highlights",
+   "before": "pick",
+   "after": "“Hair: N Colour 1, 影 Colour 4, ハイ Colour 11.”"
+  },
+  {
+   "en": "“Hair: N Colour 1, 影 Colour 4, ハイ Colour 11.”",
+   "where": "index:highlights",
+   "before": "Hair 影 is Colour 4.",
+   "after": "Chart · C112 · part 3 · from the key"
+  },
+  {
+   "en": "Chart · C112 · part 3 · from the key",
+   "where": "index:highlights",
+   "before": "“Hair: N Colour 1, 影 Colour 4, ハイ Colour 11.”",
+   "after": "from the chart"
+  },
+  {
+   "en": "from the chart",
+   "where": "index:highlights",
+   "before": "Chart · C112 · part 3 · from the key",
+   "after": "Export straight into your pipeline"
+  },
+  {
+   "en": "Export straight into your pipeline",
+   "where": "index:highlights",
+   "before": "from the chart",
+   "after": "Layered PSD for CLIP STUDIO and Photoshop, 32-bit TGA for compositing, or indexed PNG, named the way your studio names files."
+  },
+  {
+   "en": "Layered PSD for CLIP STUDIO and Photoshop, 32-bit TGA for compositing, or indexed PNG, named the way your studio names files.",
+   "where": "index:highlights",
+   "before": "Export straight into your pipeline",
+   "after": "Layered PSD: paint, lines, flags"
+  },
+  {
+   "en": "Layered PSD: paint, lines, flags",
+   "where": "index:highlights",
+   "before": "Layered PSD for CLIP STUDIO and Photoshop, 32-bit TGA for compositing, or indexed PNG, named the way your studio names files.",
+   "after": "32-bit TGA with alpha"
+  },
+  {
+   "en": "32-bit TGA with alpha",
+   "where": "index:highlights",
+   "before": "Layered PSD: paint, lines, flags",
+   "after": "Indexed PNG from the chart"
+  },
+  {
+   "en": "Indexed PNG from the chart",
+   "where": "index:highlights",
+   "before": "32-bit TGA with alpha",
+   "after": "Your file-name pattern"
+  },
+  {
+   "en": "Your file-name pattern",
+   "where": "index:highlights",
+   "before": "Indexed PNG from the chart",
+   "after": "Export"
+  },
+  {
+   "en": "nine",
+   "where": "index:highlights",
+   "before": "Export",
+   "after": "frames"
+  },
+  {
+   "en": "frames",
+   "where": "index:highlights",
+   "before": "nine",
+   "after": "as"
+  },
+  {
+   "en": "as",
+   "where": "index:highlights",
+   "before": "frames",
+   "after": "layered"
+  },
+  {
+   "en": "layered",
+   "where": "index:highlights",
+   "before": "as",
+   "after": "PSD"
+  },
+  {
+   "en": "PSD",
+   "where": "index:highlights",
+   "before": "layered",
+   "after": "CLIP"
+  },
+  {
+   "en": "CLIP",
+   "where": "index:highlights",
+   "before": "PSD",
+   "after": "for"
+  },
+  {
+   "en": "for",
+   "where": "index:highlights",
+   "before": "CLIP",
+   "after": "STUDIO,"
+  },
+  {
+   "en": "STUDIO,",
+   "where": "index:highlights",
+   "before": "for",
+   "after": "flags"
+  },
+  {
+   "en": "hidden.",
+   "where": "index:highlights",
+   "before": "flags",
+   "after": "Export"
+  },
+  {
+   "en": "C112 · Layered PSD",
+   "where": "index:highlights",
+   "before": "Export",
+   "after": "9 frames written"
+  },
+  {
+   "en": "9 frames written",
+   "where": "index:highlights",
+   "before": "C112 · Layered PSD",
+   "after": "export/C112/ with paint, lines and flag layers. The flag layer is hidden."
+  },
+  {
+   "en": "export/C112/ with paint, lines and flag layers. The flag layer is hidden.",
+   "where": "index:highlights",
+   "before": "9 frames written",
+   "after": "Open folder"
+  },
+  {
+   "en": "Go back to the frames that matter",
+   "where": "index:folders",
+   "before": "Open folder",
+   "after": "Irosu fills the routine areas. Set the chart once per series and stop filling the same colours cut after cut."
+  },
+  {
+   "en": "Irosu fills the routine areas. Set the chart once per series and stop filling the same colours cut after cut.",
+   "where": "index:folders",
+   "before": "Go back to the frames that matter",
+   "after": "Join the waitlist"
+  },
+  {
+   "en": "What's included",
+   "where": "index:features",
+   "before": "Cut",
+   "after": "Everything you need, at every stage of the cut."
+  },
+  {
+   "en": "Everything you need, at every stage of the cut.",
+   "where": "index:features",
+   "before": "What's included",
+   "after": "Import"
+  },
+  {
+   "en": "Bring the cut",
+   "where": "index:features",
+   "before": "Import",
+   "after": "in as it is"
+  },
+  {
+   "en": "in as it is",
+   "where": "index:features",
+   "before": "Bring the cut",
+   "after": "Import"
+  },
+  {
+   "en": "Cuts & episodes",
+   "where": "index:features",
+   "before": "Import",
+   "after": "Every cut with its frames, flags and status at a glance."
+  },
+  {
+   "en": "Every cut with its frames, flags and status at a glance.",
+   "where": "index:features",
+   "before": "Cuts & episodes",
+   "after": "Import checks"
+  },
+  {
+   "en": "Import checks",
+   "where": "index:features",
+   "before": "Every cut with its frames, flags and status at a glance.",
+   "after": "Frame numbers, sizes and file types read on drop, with fixes inline."
+  },
+  {
+   "en": "Frame numbers, sizes and file types read on drop, with fixes inline.",
+   "where": "index:features",
+   "before": "Import checks",
+   "after": "Colour chart setup"
+  },
+  {
+   "en": "Colour chart setup",
+   "where": "index:features",
+   "before": "Frame numbers, sizes and file types read on drop, with fixes inline.",
+   "after": "Parts with N / 影 / ハイ, picked from the key or imported."
+  },
+  {
+   "en": "Parts with N / 影 / ハイ, picked from the key or imported.",
+   "where": "index:features",
+   "before": "Colour chart setup",
+   "after": "Series charts"
+  },
+  {
+   "en": "Series charts",
+   "where": "index:features",
+   "before": "Parts with N / 影 / ハイ, picked from the key or imported.",
+   "after": "Up next"
+  },
+  {
+   "en": "Up next",
+   "where": "index:features",
+   "before": "Series charts",
+   "after": "One colour chart reused across every cut of a series."
+  },
+  {
+   "en": "One colour chart reused across every cut of a series.",
+   "where": "index:features",
+   "before": "Up next",
+   "after": "Paint"
+  },
+  {
+   "en": "Paint",
+   "where": "index:features",
+   "before": "One colour chart reused across every cut of a series.",
+   "after": "Keep every"
+  },
+  {
+   "en": "Keep every",
+   "where": "index:features",
+   "before": "Paint",
+   "after": "frame moving"
+  },
+  {
+   "en": "frame moving",
+   "where": "index:features",
+   "before": "Keep every",
+   "after": "Paint"
+  },
+  {
+   "en": "Fill from the key",
+   "where": "index:features",
+   "before": "Paint",
+   "after": "Every area matched by shape and neighbours, then filled."
+  },
+  {
+   "en": "Every area matched by shape and neighbours, then filled.",
+   "where": "index:features",
+   "before": "Fill from the key",
+   "after": "Lasso fill"
+  },
+  {
+   "en": "Lasso fill",
+   "where": "index:features",
+   "before": "Every area matched by shape and neighbours, then filled.",
+   "after": "Drag around a group of areas and fill them in one go."
+  },
+  {
+   "en": "Drag around a group of areas and fill them in one go.",
+   "where": "index:features",
+   "before": "Lasso fill",
+   "after": "Gap closing"
+  },
+  {
+   "en": "Gap closing",
+   "where": "index:features",
+   "before": "Drag around a group of areas and fill them in one go.",
+   "after": "Open lines closed before the fill, each one shown for review."
+  },
+  {
+   "en": "Open lines closed before the fill, each one shown for review.",
+   "where": "index:features",
+   "before": "Gap closing",
+   "after": "Flags"
+  },
+  {
+   "en": "Unsure areas flagged with their two likely colours.",
+   "where": "index:features",
+   "before": "Flags",
+   "after": "Unpainted check"
+  },
+  {
+   "en": "Unpainted check",
+   "where": "index:features",
+   "before": "Unsure areas flagged with their two likely colours.",
+   "after": "Missed specks shown in magenta before anyone else sees them."
+  },
+  {
+   "en": "Missed specks shown in magenta before anyone else sees them.",
+   "where": "index:features",
+   "before": "Unpainted check",
+   "after": "Fix forward"
+  },
+  {
+   "en": "Fix forward",
+   "where": "index:features",
+   "before": "Missed specks shown in magenta before anyone else sees them.",
+   "after": "Fix an area once and carry it through the rest of the cut."
+  },
+  {
+   "en": "Fix an area once and carry it through the rest of the cut.",
+   "where": "index:features",
+   "before": "Fix forward",
+   "after": "Colour trace lines"
+  },
+  {
+   "en": "Colour trace lines",
+   "where": "index:features",
+   "before": "Fix an area once and carry it through the rest of the cut.",
+   "after": "Up next"
+  },
+  {
+   "en": "Coloured trace lines (色トレス) filled with the right colour.",
+   "where": "index:features",
+   "before": "Up next",
+   "after": "Check"
+  },
+  {
+   "en": "Review, approve",
+   "where": "index:features",
+   "before": "Check",
+   "after": "and deliver"
+  },
+  {
+   "en": "and deliver",
+   "where": "index:features",
+   "before": "Review, approve",
+   "after": "Check"
+  },
+  {
+   "en": "Check mode",
+   "where": "index:features",
+   "before": "Check",
+   "after": "Side by side, overlay or flip against the key."
+  },
+  {
+   "en": "Side by side, overlay or flip against the key.",
+   "where": "index:features",
+   "before": "Check mode",
+   "after": "Export"
+  },
+  {
+   "en": "Layered PSD, 32-bit TGA or indexed PNG with your naming.",
+   "where": "index:features",
+   "before": "Export",
+   "after": "Director review"
+  },
+  {
+   "en": "Director review",
+   "where": "index:features",
+   "before": "Layered PSD, 32-bit TGA or indexed PNG with your naming.",
+   "after": "Up next"
+  },
+  {
+   "en": "Send a cut for approval with a note on every frame.",
+   "where": "index:features",
+   "before": "Up next",
+   "after": "Studio"
+  },
+  {
+   "en": "Studio",
+   "where": "index:features",
+   "before": "Send a cut for approval with a note on every frame.",
+   "after": "Built for"
+  },
+  {
+   "en": "Built for",
+   "where": "index:features",
+   "before": "Studio",
+   "after": "the whole studio"
+  },
+  {
+   "en": "the whole studio",
+   "where": "index:features",
+   "before": "Built for",
+   "after": "Studio"
+  },
+  {
+   "en": "English and 日本語",
+   "where": "index:features",
+   "before": "Studio",
+   "after": "The whole app in English or Japanese, in studio words."
+  },
+  {
+   "en": "The whole app in English or Japanese, in studio words.",
+   "where": "index:features",
+   "before": "English and 日本語",
+   "after": "Team seats"
+  },
+  {
+   "en": "Team seats",
+   "where": "index:features",
+   "before": "The whole app in English or Japanese, in studio words.",
+   "after": "Up next"
+  },
+  {
+   "en": "Several painters on one cut, each on their own frames.",
+   "where": "index:features",
+   "before": "Up next",
+   "after": "Irosu for Mac"
+  },
+  {
+   "en": "Irosu for Mac",
+   "where": "index:features",
+   "before": "Several painters on one cut, each on their own frames.",
+   "after": "Up next"
+  },
+  {
+   "en": "The same app and shortcuts on macOS.",
+   "where": "index:features",
+   "before": "Up next",
+   "after": "Keyboard first"
+  },
+  {
+   "en": "Keyboard first",
+   "where": "index:features",
+   "before": "The same app and shortcuts on macOS.",
+   "after": "Live"
+  },
+  {
+   "en": "Live",
+   "where": "index:features",
+   "before": "Keyboard first",
+   "after": "Every tool on a key: G fill, L lasso, N next flag."
+  },
+  {
+   "en": "Every tool on a key: G fill, L lasso, N next flag.",
+   "where": "index:features",
+   "before": "Live",
+   "after": "Testimonials"
+  },
+  {
+   "en": "Testimonials",
+   "where": "index:testimonials",
+   "before": "Every tool on a key: G fill, L lasso, N next flag.",
+   "after": "Painted from one key frame."
+  },
+  {
+   "en": "Painted from one key frame.",
+   "where": "index:testimonials",
+   "before": "Testimonials",
+   "after": "1 of 5"
+  },
+  {
+   "en": "1 of 5",
+   "where": "index:testimonials",
+   "before": "Painted from one key frame.",
+   "after": "Hair, headphones, jacket."
+  },
+  {
+   "en": "Hair, headphones, jacket.",
+   "where": "index:testimonials",
+   "before": "1 of 5",
+   "after": "One painted key frame sets the colours. Every other frame of the cut is filled to match it, area by area, even where the pose has changed."
+  },
+  {
+   "en": "One painted key frame sets the colours. Every other frame of the cut is filled to match it, area by area, even where the pose has changed.",
+   "where": "index:testimonials",
+   "before": "Hair, headphones, jacket.",
+   "after": "Frame F02"
+  },
+  {
+   "en": "Frame F02",
+   "where": "index:testimonials",
+   "before": "One painted key frame sets the colours. Every other frame of the cut is filled to match it, area by area, even where the pose has changed.",
+   "after": "Concept cut · staged"
+  },
+  {
+   "en": "Concept cut · staged",
+   "where": "index:testimonials",
+   "before": "Frame F02",
+   "after": "Frame F02 of the concept cut"
+  },
+  {
+   "en": "Frame F02 of the concept cut",
+   "where": "index:testimonials",
+   "before": "Concept cut · staged",
+   "after": "Hair, headphones, jacket."
+  },
+  {
+   "en": "2 of 5",
+   "where": "index:testimonials",
+   "before": "Concept cut · staged",
+   "after": "Shadows stay shadows."
+  },
+  {
+   "en": "Shadows stay shadows.",
+   "where": "index:testimonials",
+   "before": "2 of 5",
+   "after": "Normal, shadow (影) and highlight (ハイ) colours come from the chart, so a shadow is never filled with the base colour by mistake."
+  },
+  {
+   "en": "Normal, shadow (影) and highlight (ハイ) colours come from the chart, so a shadow is never filled with the base colour by mistake.",
+   "where": "index:testimonials",
+   "before": "Shadows stay shadows.",
+   "after": "Frame F04"
+  },
+  {
+   "en": "Frame F04",
+   "where": "index:testimonials",
+   "before": "Normal, shadow (影) and highlight (ハイ) colours come from the chart, so a shadow is never filled with the base colour by mistake.",
+   "after": "Concept cut · staged"
+  },
+  {
+   "en": "Frame F04 of the concept cut",
+   "where": "index:testimonials",
+   "before": "Concept cut · staged",
+   "after": "Shadows stay shadows."
+  },
+  {
+   "en": "3 of 5",
+   "where": "index:testimonials",
+   "before": "Concept cut · staged",
+   "after": "New poses, same colours."
+  },
+  {
+   "en": "New poses, same colours.",
+   "where": "index:testimonials",
+   "before": "3 of 5",
+   "after": "Areas are matched by their shape and by their neighbours, so a turned head or a raised arm still gets the right colour."
+  },
+  {
+   "en": "Areas are matched by their shape and by their neighbours, so a turned head or a raised arm still gets the right colour.",
+   "where": "index:testimonials",
+   "before": "New poses, same colours.",
+   "after": "Frame F06"
+  },
+  {
+   "en": "Frame F06",
+   "where": "index:testimonials",
+   "before": "Areas are matched by their shape and by their neighbours, so a turned head or a raised arm still gets the right colour.",
+   "after": "Concept cut · staged"
+  },
+  {
+   "en": "Frame F06 of the concept cut",
+   "where": "index:testimonials",
+   "before": "Concept cut · staged",
+   "after": "New poses, same colours."
+  },
+  {
+   "en": "4 of 5",
+   "where": "index:testimonials",
+   "before": "Concept cut · staged",
+   "after": "Unsure? It asks."
+  },
+  {
+   "en": "Unsure? It asks.",
+   "where": "index:testimonials",
+   "before": "4 of 5",
+   "after": "When two colours are close, the area is flagged with both candidates instead of a guess. You decide with one key."
+  },
+  {
+   "en": "When two colours are close, the area is flagged with both candidates instead of a guess. You decide with one key.",
+   "where": "index:testimonials",
+   "before": "Unsure? It asks.",
+   "after": "Frame F08"
+  },
+  {
+   "en": "Frame F08",
+   "where": "index:testimonials",
+   "before": "When two colours are close, the area is flagged with both candidates instead of a guess. You decide with one key.",
+   "after": "Concept cut · staged"
+  },
+  {
+   "en": "Frame F08 of the concept cut",
+   "where": "index:testimonials",
+   "before": "Concept cut · staged",
+   "after": "Unsure? It asks."
+  },
+  {
+   "en": "5 of 5",
+   "where": "index:testimonials",
+   "before": "Concept cut · staged",
+   "after": "Ready to check."
+  },
+  {
+   "en": "Ready to check.",
+   "where": "index:testimonials",
+   "before": "5 of 5",
+   "after": "Each frame lands in check mode next to the key, so the painter reviews the cut instead of filling it from scratch."
+  },
+  {
+   "en": "Each frame lands in check mode next to the key, so the painter reviews the cut instead of filling it from scratch.",
+   "where": "index:testimonials",
+   "before": "Ready to check.",
+   "after": "Frame F10"
+  },
+  {
+   "en": "Frame F10",
+   "where": "index:testimonials",
+   "before": "Each frame lands in check mode next to the key, so the painter reviews the cut instead of filling it from scratch.",
+   "after": "Concept cut · staged"
+  },
+  {
+   "en": "Frame F10 of the concept cut",
+   "where": "index:testimonials",
+   "before": "Concept cut · staged",
+   "after": "Ready to check."
+  },
+  {
+   "en": "Previous frame",
+   "where": "index:testimonials",
+   "before": "Concept cut · staged",
+   "after": "Next frame"
+  },
+  {
+   "en": "Next frame",
+   "where": "index:testimonials",
+   "before": "Previous frame",
+   "after": "1 of 5"
+  },
+  {
+   "en": "One plan. Everything included.",
+   "where": "index:pricing",
+   "before": "1 of 5",
+   "after": "Beta"
+  },
+  {
+   "en": "Beta",
+   "where": "index:pricing",
+   "before": "One plan. Everything included.",
+   "after": "Show the studio plan"
+  },
+  {
+   "en": "Show the studio plan",
+   "where": "index:pricing",
+   "before": "Beta",
+   "after": "Studio"
+  },
+  {
+   "en": "from launch",
+   "where": "index:pricing",
+   "before": "Studio",
+   "after": "Beta access"
+  },
+  {
+   "en": "Beta access",
+   "where": "index:pricing",
+   "before": "from launch",
+   "after": "Free"
+  },
+  {
+   "en": "Free",
+   "where": "index:pricing",
+   "before": "Beta access",
+   "after": "in beta"
+  },
+  {
+   "en": "in beta",
+   "where": "index:pricing",
+   "before": "Free",
+   "after": "Studio plan"
+  },
+  {
+   "en": "Studio plan",
+   "where": "index:pricing",
+   "before": "in beta",
+   "after": "Soon"
+  },
+  {
+   "en": "Soon",
+   "where": "index:pricing",
+   "before": "Studio plan",
+   "after": "priced per seat at launch"
+  },
+  {
+   "en": "priced per seat at launch",
+   "where": "index:pricing",
+   "before": "Soon",
+   "after": "What’s included"
+  },
+  {
+   "en": "What’s included",
+   "where": "index:pricing",
+   "before": "priced per seat at launch",
+   "after": "Fill a whole cut from one painted key"
+  },
+  {
+   "en": "Fill a whole cut from one painted key",
+   "where": "index:pricing",
+   "before": "What’s included",
+   "after": "Flags, gap closing and unpainted check"
+  },
+  {
+   "en": "Flags, gap closing and unpainted check",
+   "where": "index:pricing",
+   "before": "Fill a whole cut from one painted key",
+   "after": "Check mode with approve and send back"
+  },
+  {
+   "en": "Check mode with approve and send back",
+   "where": "index:pricing",
+   "before": "Flags, gap closing and unpainted check",
+   "after": "Colour chart (色指定) setup and import"
+  },
+  {
+   "en": "Colour chart (色指定) setup and import",
+   "where": "index:pricing",
+   "before": "Check mode with approve and send back",
+   "after": "Export to layered PSD, TGA and PNG"
+  },
+  {
+   "en": "Export to layered PSD, TGA and PNG",
+   "where": "index:pricing",
+   "before": "Colour chart (色指定) setup and import",
+   "after": "Join the waitlist"
+  },
+  {
+   "en": "The roadmap",
+   "where": "index:roadmap",
+   "before": "Join the waitlist",
+   "after": "No launch dates we can’t keep. Just the plan."
+  },
+  {
+   "en": "No launch dates we can’t keep. Just the plan.",
+   "where": "index:roadmap",
+   "before": "The roadmap",
+   "after": "CUT"
+  },
+  {
+   "en": "CUT",
+   "where": "index:roadmap",
+   "before": "No launch dates we can’t keep. Just the plan.",
+   "after": "Live"
+  },
+  {
+   "en": "Fill a cut from one painted key frame.",
+   "where": "index:roadmap",
+   "before": "Live",
+   "after": "Flags, gap closing and unpainted check."
+  },
+  {
+   "en": "Flags, gap closing and unpainted check.",
+   "where": "index:roadmap",
+   "before": "Fill a cut from one painted key frame.",
+   "after": "Check mode: side by side, overlay, flip."
+  },
+  {
+   "en": "Check mode: side by side, overlay, flip.",
+   "where": "index:roadmap",
+   "before": "Flags, gap closing and unpainted check.",
+   "after": "Export layered PSD, TGA and PNG."
+  },
+  {
+   "en": "Export layered PSD, TGA and PNG.",
+   "where": "index:roadmap",
+   "before": "Check mode: side by side, overlay, flip.",
+   "after": "CUT"
+  },
+  {
+   "en": "Up Next",
+   "where": "index:roadmap",
+   "before": "CUT",
+   "after": "Windows installer with everything inside."
+  },
+  {
+   "en": "Windows installer with everything inside.",
+   "where": "index:roadmap",
+   "before": "Up Next",
+   "after": "Automatic updates."
+  },
+  {
+   "en": "Automatic updates.",
+   "where": "index:roadmap",
+   "before": "Windows installer with everything inside.",
+   "after": "CUT"
+  },
+  {
+   "en": "Series colour charts shared across cuts.",
+   "where": "index:roadmap",
+   "before": "Up Next",
+   "after": "Director review with a note per frame."
+  },
+  {
+   "en": "Director review with a note per frame.",
+   "where": "index:roadmap",
+   "before": "Series colour charts shared across cuts.",
+   "after": "CUT"
+  },
+  {
+   "en": "Irosu for macOS.",
+   "where": "index:roadmap",
+   "before": "Up Next",
+   "after": "Team seats for a whole finishing studio."
+  },
+  {
+   "en": "Team seats for a whole finishing studio.",
+   "where": "index:roadmap",
+   "before": "Irosu for macOS.",
+   "after": "Coloured trace lines (色トレス)."
+  },
+  {
+   "en": "Coloured trace lines (色トレス).",
+   "where": "index:roadmap",
+   "before": "Team seats for a whole finishing studio.",
+   "after": "Ready to paint less by hand?"
+  },
+  {
+   "en": "Ready to paint less by hand?",
+   "where": "index:access",
+   "before": "Coloured trace lines (色トレス).",
+   "after": "Join the waitlist"
+  },
+  {
+   "en": "in the concept cut, from one key",
+   "where": "index:access",
+   "before": "frames",
+   "after": "FAQ"
+  },
+  {
+   "en": "FAQ",
+   "where": "index:faq",
+   "before": "in the concept cut, from one key",
+   "after": "Good questions, straight answers."
+  },
+  {
+   "en": "Good questions, straight answers.",
+   "where": "index:faq",
+   "before": "FAQ",
+   "after": "Does Irosu replace painters?"
+  },
+  {
+   "en": "Does Irosu replace painters?",
+   "where": "index:faq",
+   "before": "Good questions, straight answers.",
+   "after": "Does Irosu replace painters?"
+  },
+  {
+   "en": "No. Irosu fills the routine areas and flags the rest. A painter still sets the key, checks every frame and decides every flag.",
+   "where": "index:faq",
+   "before": "Does Irosu replace painters?",
+   "after": "What files can I bring in?"
+  },
+  {
+   "en": "What files can I bring in?",
+   "where": "index:faq",
+   "before": "No. Irosu fills the routine areas and flags the rest. A painter still sets the key, checks every frame and decides every flag.",
+   "after": "What files can I bring in?"
+  },
+  {
+   "en": "Line frames as PNG, TGA, TIFF or PSD, the painted key frame as PSD, and the colour chart as JSON, CSV or .aco. Frame numbers, sizes and layers are read on import, and anything that doesn’t match is shown with a fix.",
+   "where": "index:faq",
+   "before": "What files can I bring in?",
+   "after": "How much does Irosu cost?"
+  },
+  {
+   "en": "How much does Irosu cost?",
+   "where": "index:faq",
+   "before": "Line frames as PNG, TGA, TIFF or PSD, the painted key frame as PSD, and the colour chart as JSON, CSV or .aco. Frame numbers, sizes and layers are read on import, and anything that doesn’t match is shown with a fix.",
+   "after": "How much does Irosu cost?"
+  },
+  {
+   "en": "Irosu is free during the beta. Studio pricing per seat will be announced before launch, with one plan and no tiers to decode.",
+   "where": "index:faq",
+   "before": "How much does Irosu cost?",
+   "after": "Where do my frames go?"
+  },
+  {
+   "en": "Where do my frames go?",
+   "where": "index:faq",
+   "before": "Irosu is free during the beta. Studio pricing per seat will be announced before launch, with one plan and no tiers to decode.",
+   "after": "Where do my frames go?"
+  },
+  {
+   "en": "Nowhere. Irosu runs on your own computer. Frames, charts and exports stay in your workspace folder. Nothing is uploaded, and your art never trains any model.",
+   "where": "index:faq",
+   "before": "Where do my frames go?",
+   "after": "Does it work with CLIP STUDIO PAINT?"
+  },
+  {
+   "en": "Does it work with CLIP STUDIO PAINT?",
+   "where": "index:faq",
+   "before": "Nowhere. Irosu runs on your own computer. Frames, charts and exports stay in your workspace folder. Nothing is uploaded, and your art never trains any model.",
+   "after": "Does it work with CLIP STUDIO PAINT?"
+  },
+  {
+   "en": "Yes, through files. Export a layered PSD with paint, lines and flag layers, then open it in",
+   "where": "index:faq",
+   "before": "Does it work with CLIP STUDIO PAINT?",
+   "after": "CLIP STUDIO PAINT"
+  },
+  {
+   "en": "CLIP STUDIO PAINT",
+   "where": "index:faq",
+   "before": "Yes, through files. Export a layered PSD with paint, lines and flag layers, then open it in",
+   "after": "or Photoshop. A direct CLIP STUDIO workflow is on the roadmap."
+  },
+  {
+   "en": "or Photoshop. A direct CLIP STUDIO workflow is on the roadmap.",
+   "where": "index:faq",
+   "before": "CLIP STUDIO PAINT",
+   "after": "Can I use Irosu in Japanese?"
+  },
+  {
+   "en": "Can I use Irosu in Japanese?",
+   "where": "index:faq",
+   "before": "or Photoshop. A direct CLIP STUDIO workflow is on the roadmap.",
+   "after": "Can I use Irosu in Japanese?"
+  },
+  {
+   "en": "Yes. Switch the whole app between English and 日本語 in Settings. The words follow studio usage: 色指定, 隙間閉じ, 塗り残し.",
+   "where": "index:faq",
+   "before": "Can I use Irosu in Japanese?",
+   "after": "Can my studio use Irosu?"
+  },
+  {
+   "en": "Can my studio use Irosu?",
+   "where": "index:faq",
+   "before": "Yes. Switch the whole app between English and 日本語 in Settings. The words follow studio usage: 色指定, 隙間閉じ, 塗り残し.",
+   "after": "Can my studio use Irosu?"
+  },
+  {
+   "en": "Yes, that is who it is for. The waitlist is open to finishing studios and freelance finishers. Team seats are on the roadmap.",
+   "where": "index:faq",
+   "before": "Can my studio use Irosu?",
+   "after": "One key, every frame filled"
+  },
+  {
+   "en": "One key, every frame filled",
+   "where": "index:outro",
+   "before": "Yes, that is who it is for. The waitlist is open to finishing studios and freelance finishers. Team seats are on the roadmap.",
+   "after": "One"
+  },
+  {
+   "en": "One",
+   "where": "index:outro",
+   "before": "One key, every frame filled",
+   "after": "key,"
+  },
+  {
+   "en": "key,",
+   "where": "index:outro",
+   "before": "One",
+   "after": "every"
+  },
+  {
+   "en": "every",
+   "where": "index:outro",
+   "before": "key,",
+   "after": "frame"
+  },
+  {
+   "en": "frame",
+   "where": "index:outro",
+   "before": "every",
+   "after": "filled"
+  },
+  {
+   "en": "filled",
+   "where": "index:outro",
+   "before": "frame",
+   "after": "Cookie notice"
+  },
+  {
+   "en": "Cookie notice",
+   "where": "index:relative",
+   "before": "filled",
+   "after": "This site only stores what it needs to work."
+  },
+  {
+   "en": "This site only stores what it needs to work.",
+   "where": "index:relative",
+   "before": "Cookie notice",
+   "after": "Privacy Policy"
+  },
+  {
+   "en": "Join the waitlist · Irosu",
+   "where": "access:head",
+   "before": "",
+   "after": "Join the Irosu waitlist. Irosu is the colour-fill assist for anime finishing (仕上げ)."
+  },
+  {
+   "en": "Join the Irosu waitlist. Irosu is the colour-fill assist for anime finishing (仕上げ).",
+   "where": "access:head",
+   "before": "Join the waitlist · Irosu",
+   "after": "Join the waitlist · Irosu"
+  },
+  {
+   "en": "Irosu home",
+   "where": "access:head",
+   "before": "Join the waitlist · Irosu",
+   "after": "← Back to the site"
+  },
+  {
+   "en": "← Back to the site",
+   "where": "access:head",
+   "before": "Irosu home",
+   "after": "Waitlist"
+  },
+  {
+   "en": "Waitlist",
+   "where": "access:card",
+   "before": "← Back to the site",
+   "after": "Paint one key frame. Irosu fills the cut."
+  },
+  {
+   "en": "Paint one key frame. Irosu fills the cut.",
+   "where": "access:card",
+   "before": "Waitlist",
+   "after": "Irosu is in beta with a small group of finishing studios and freelance finishers (仕上げ). Join the waitlist, tell us a little about your work, and we’ll email you when your spot opens."
+  },
+  {
+   "en": "Irosu is in beta with a small group of finishing studios and freelance finishers (仕上げ). Join the waitlist, tell us a little about your work, and we’ll email you when your spot opens.",
+   "where": "access:card",
+   "before": "Paint one key frame. Irosu fills the cut.",
+   "after": "Free during the beta"
+  },
+  {
+   "en": "Free during the beta",
+   "where": "access:card",
+   "before": "Irosu is in beta with a small group of finishing studios and freelance finishers (仕上げ). Join the waitlist, tell us a little about your work, and we’ll email you when your spot opens.",
+   "after": "The Windows desktop app, running on your own computer. Your frames never leave it."
+  },
+  {
+   "en": "The Windows desktop app, running on your own computer. Your frames never leave it.",
+   "where": "access:card",
+   "before": "Free during the beta",
+   "after": "A direct line to the people building it. Your feedback shapes what comes next."
+  },
+  {
+   "en": "A direct line to the people building it. Your feedback shapes what comes next.",
+   "where": "access:card",
+   "before": "The Windows desktop app, running on your own computer. Your frames never leave it.",
+   "after": "Waitlist form"
+  },
+  {
+   "en": "Waitlist form",
+   "where": "access:card",
+   "before": "A direct line to the people building it. Your feedback shapes what comes next.",
+   "after": "Preview: this form isn’t connected yet, so nothing you enter is sent anywhere."
+  },
+  {
+   "en": "Preview: this form isn’t connected yet, so nothing you enter is sent anywhere.",
+   "where": "access:card",
+   "before": "Waitlist form",
+   "after": "Name"
+  },
+  {
+   "en": "Name",
+   "where": "access:card",
+   "before": "Preview: this form isn’t connected yet, so nothing you enter is sent anywhere.",
+   "after": "Email"
+  },
+  {
+   "en": "Email",
+   "where": "access:card",
+   "before": "Name",
+   "after": "Studio or company"
+  },
+  {
+   "en": "Studio or company",
+   "where": "access:card",
+   "before": "Email",
+   "after": "Freelance is fine"
+  },
+  {
+   "en": "Freelance is fine",
+   "where": "access:card",
+   "before": "Studio or company",
+   "after": "Your role"
+  },
+  {
+   "en": "Your role",
+   "where": "access:card",
+   "before": "Freelance is fine",
+   "after": "Finishing artist · 仕上げ"
+  },
+  {
+   "en": "Finishing artist · 仕上げ",
+   "where": "access:card",
+   "before": "Your role",
+   "after": "Finishing lead · 仕上げ検査"
+  },
+  {
+   "en": "Finishing lead · 仕上げ検査",
+   "where": "access:card",
+   "before": "Finishing artist · 仕上げ",
+   "after": "Director / producer"
+  },
+  {
+   "en": "Director / producer",
+   "where": "access:card",
+   "before": "Finishing lead · 仕上げ検査",
+   "after": "Freelancer"
+  },
+  {
+   "en": "Freelancer",
+   "where": "access:card",
+   "before": "Director / producer",
+   "after": "Other"
+  },
+  {
+   "en": "Other",
+   "where": "access:card",
+   "before": "Freelancer",
+   "after": "Team size"
+  },
+  {
+   "en": "Team size",
+   "where": "access:card",
+   "before": "Other",
+   "after": "Just me"
+  },
+  {
+   "en": "Just me",
+   "where": "access:card",
+   "before": "Team size",
+   "after": "Tools you use today"
+  },
+  {
+   "en": "Tools you use today",
+   "where": "access:card",
+   "before": "Just me",
+   "after": "CLIP STUDIO PAINT"
+  },
+  {
+   "en": "RETAS STUDIO",
+   "where": "access:card",
+   "before": "CLIP STUDIO PAINT",
+   "after": "PaintMan"
+  },
+  {
+   "en": "PaintMan",
+   "where": "access:card",
+   "before": "RETAS STUDIO",
+   "after": "OpenToonz"
+  },
+  {
+   "en": "OpenToonz",
+   "where": "access:card",
+   "before": "PaintMan",
+   "after": "Photoshop"
+  },
+  {
+   "en": "Photoshop",
+   "where": "access:card",
+   "before": "OpenToonz",
+   "after": "Other"
+  },
+  {
+   "en": "Anything we should know?",
+   "where": "access:card",
+   "before": "Other",
+   "after": "Series you work on, frames per month, what slows you down…"
+  },
+  {
+   "en": "Series you work on, frames per month, what slows you down…",
+   "where": "access:card",
+   "before": "Anything we should know?",
+   "after": "Leave this empty"
+  },
+  {
+   "en": "Leave this empty",
+   "where": "access:card",
+   "before": "Series you work on, frames per month, what slows you down…",
+   "after": "Email me when my Irosu spot opens. No newsletters, and we never share your details."
+  },
+  {
+   "en": "Email me when my Irosu spot opens. No newsletters, and we never share your details.",
+   "where": "access:card",
+   "before": "Leave this empty",
+   "after": "Join the waitlist"
+  },
+  {
+   "en": "Takes about a minute. We reply to everyone on the list.",
+   "where": "access:card",
+   "before": "Join the waitlist",
+   "after": "You’re on the list."
+  },
+  {
+   "en": "You’re on the list.",
+   "where": "access:card",
+   "before": "Takes about a minute. We reply to everyone on the list.",
+   "after": "Thanks for telling us about your work. We’ll be in touch by email soon. ありがとうございます。"
+  },
+  {
+   "en": "Thanks for telling us about your work. We’ll be in touch by email soon. ありがとうございます。",
+   "where": "access:card",
+   "before": "You’re on the list.",
+   "after": "Back to the site"
+  },
+  {
+   "en": "Back to the site",
+   "where": "access:card",
+   "before": "Thanks for telling us about your work. We’ll be in touch by email soon. ありがとうございます。",
+   "after": "irosu"
+  },
+  {
+   "en": "Please add your name.",
+   "where": "access:script message (name)",
+   "before": "",
+   "after": ""
+  },
+  {
+   "en": "Please check your email address.",
+   "where": "access:script message (email)",
+   "before": "",
+   "after": ""
+  },
+  {
+   "en": "Pick the role closest to yours.",
+   "where": "access:script message (role)",
+   "before": "",
+   "after": ""
+  },
+  {
+   "en": "Tick the box so we can contact you.",
+   "where": "access:script message (consent)",
+   "before": "",
+   "after": ""
+  },
+  {
+   "en": "Preview: this is what visitors see after signing up. Nothing was sent, because the form isn’t connected yet.",
+   "where": "access:script message (previewDone)",
+   "before": "",
+   "after": ""
+  },
+  {
+   "en": "That didn’t go through. Check your connection and try again.",
+   "where": "access:script message (failed)",
+   "before": "",
+   "after": ""
+  }
+ ],
+ "js": {
+  "Ut": [
+   {
+    "source": "chat",
+    "quote": "Collar line, 8 px",
+    "meta": "frame F02 · automatic",
+    "tag": "closed"
+   },
+   {
+    "source": "call",
+    "quote": "Possible leak, 912 px",
+    "meta": "frame F03 · ",
+    "link": "zoom in",
+    "tag": "flagged · not filled"
+   },
+   {
+    "source": "figma",
+    "quote": "Glove seam, 6 px",
+    "meta": "frame F05 · automatic",
+    "tag": "closed · check"
+   },
+   {
+    "source": "chat",
+    "quote": "Headphone band, 4 px",
+    "meta": "frame F05 · automatic",
+    "tag": "closed"
+   },
+   {
+    "source": "chat",
+    "quote": "Hair line, 11 px",
+    "meta": "frame F04 · automatic",
+    "tag": "closed"
+   },
+   {
+    "source": "figma",
+    "quote": "Sleeve edge, 13 px",
+    "meta": "frame F06 · automatic",
+    "tag": "closed · check"
+   },
+   {
+    "source": "call",
+    "quote": "Possible leak, 1,488 px",
+    "meta": "frame F09 · ",
+    "link": "zoom in",
+    "tag": "flagged · not filled"
+   }
+  ],
+  "Yt": [
+   {
+    "question": "Which colour is the hair shadow?",
+    "tools": [
+     "chart",
+     "pick"
+    ],
+    "line": "Hair 影 is Colour 4.",
+    "quote": "“Hair: N Colour 1, 影 Colour 4, ハイ Colour 11.”",
+    "source": "Chart · C112 · part 3 · from the key",
+    "tag": "from the chart"
+   },
+   {
+    "question": "Which parts use Colour 11?",
+    "tools": [
+     "chart",
+     "find"
+    ],
+    "line": "The hair highlight and the jacket trim.",
+    "quote": null,
+    "source": "Chart · C112 · 2 parts",
+    "tag": "from the chart"
+   },
+   {
+    "question": "What is the skin shadow?",
+    "tools": [
+     "chart",
+     "pick"
+    ],
+    "line": "肌 影 is Colour 7.",
+    "quote": "“肌: N Colour 6, 影 Colour 7.”",
+    "source": "Chart · C112 · part 1 · from the key",
+    "tag": "from the chart"
+   }
+  ],
+  "nn": [
+   {
+    "app": "Export",
+    "label": "C112 · Layered PSD",
+    "color": "bg-steel",
+    "said": "f02|C112_F02.psd / f03|C112_F03.psd / f04|C112_F04.psd // layers|Layers: paint|paint, lines|lines, flags|flags +(hidden)."
+   },
+   {
+    "app": "Export",
+    "label": "C112 · 32-bit TGA",
+    "color": "bg-coral",
+    "said": "f02|C112_F02.tga / f03|C112_F03.tga / f04|C112_F04.tga // alpha|Alpha kept for compositing."
+   },
+   {
+    "app": "Export",
+    "label": "C113 · Indexed PNG",
+    "color": "bg-apricot",
+    "said": "f01|C113_F01.png / f02|C113_F02.png // palette|Palette taken from the colour chart."
+   }
+  ],
+  "xn": [
+   "Export nine frames as layered PSD.",
+   "Write the cut as 32-bit TGA with alpha.",
+   "Name the files C112_F02 and on."
+  ],
+  "Sn": [
+   "export|Export nine frames as layered|layered PSD.",
+   "write|Write the cut as TGA with alpha|alpha."
+  ],
+  "byHand": "by hand",
+  "toolOne": "tool to switch",
+  "toolMany": "tools to switch"
+ },
+ "access_messages": {
+  "name": "Please add your name.",
+  "email": "Please check your email address.",
+  "role": "Pick the role closest to yours.",
+  "consent": "Tick the box so we can contact you.",
+  "previewDone": "Preview: this is what visitors see after signing up. Nothing was sent, because the form isn’t connected yet.",
+  "failed": "That didn’t go through. Check your connection and try again."
+ }
+}

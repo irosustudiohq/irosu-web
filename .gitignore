@@ -1,0 +1,9 @@
+# Only the Irosu site and its build tools are published; everything else in this folder is local reference material.
+/*
+!/.gitignore
+!/README.md
+!/irosu-site/
+!/tools/
+__pycache__/
+*.pyc
+node_modules/

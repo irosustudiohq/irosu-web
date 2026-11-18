@@ -1,0 +1,1 @@
+function e(){return globalThis.scheduler?.yield?globalThis.scheduler.yield():new Promise(e=>setTimeout(e,0))}export{e as t};

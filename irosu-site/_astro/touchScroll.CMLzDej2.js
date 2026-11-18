@@ -1,0 +1,1 @@
+function e(){return window.matchMedia(`(hover: none) and (pointer: coarse)`).matches}export{e as t};

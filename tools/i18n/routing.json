@@ -1,0 +1,80 @@
+{
+  "_about": "Which language each visitor gets. Chosen from Irosu's outreach plan: Japan is the core market (douga/shiage studios), Korea and Vietnam/Philippines are the overseas vendors who do the same work, China and Taiwan are large animation labour markets, and the US is the biggest English-language market. Edit 'countries' to add or move a country; then run localise.py.",
+  "default": "en",
+  "locales": {
+    "en": {
+      "name": "English",
+      "html_lang": "en",
+      "og_locale": "en_GB",
+      "file_slug": "en"
+    },
+    "en-us": {
+      "name": "English",
+      "html_lang": "en-US",
+      "og_locale": "en_US",
+      "file_slug": "en-us",
+      "automatic": true
+    },
+    "ja": {
+      "name": "日本語",
+      "html_lang": "ja",
+      "og_locale": "ja_JP",
+      "file_slug": "ja",
+      "font": "\"Hiragino Sans\",\"Hiragino Kaku Gothic ProN\",\"Yu Gothic UI\",\"Yu Gothic\",Meiryo,\"Noto Sans JP\"",
+      "css": "html[lang] *{letter-spacing:0!important}.hero_label-text{line-height:1.2}.outro_line{flex-wrap:wrap}.outro_line>div{white-space:nowrap}"
+    },
+    "ko": {
+      "name": "한국어",
+      "html_lang": "ko",
+      "og_locale": "ko_KR",
+      "file_slug": "ko",
+      "font": "\"Apple SD Gothic Neo\",\"Malgun Gothic\",\"Noto Sans KR\"",
+      "css": "html[lang] *{letter-spacing:0!important}.hero_label-text{line-height:1.2}.outro_line{flex-wrap:wrap}.outro_line>div{white-space:nowrap}"
+    },
+    "zh-cn": {
+      "name": "简体中文",
+      "html_lang": "zh-Hans",
+      "og_locale": "zh_CN",
+      "file_slug": "zh-cn",
+      "font": "\"PingFang SC\",\"Microsoft YaHei UI\",\"Microsoft YaHei\",\"Noto Sans SC\"",
+      "css": "html[lang] *{letter-spacing:0!important}.hero_label-text{line-height:1.2}.outro_line{flex-wrap:wrap}.outro_line>div{white-space:nowrap}"
+    },
+    "zh-tw": {
+      "name": "繁體中文",
+      "html_lang": "zh-Hant",
+      "og_locale": "zh_TW",
+      "file_slug": "zh-tw",
+      "font": "\"PingFang TC\",\"Microsoft JhengHei UI\",\"Microsoft JhengHei\",\"Noto Sans TC\"",
+      "css": "html[lang] *{letter-spacing:0!important}.hero_label-text{line-height:1.2}.outro_line{flex-wrap:wrap}.outro_line>div{white-space:nowrap}"
+    },
+    "vi": {
+      "name": "Tiếng Việt",
+      "html_lang": "vi",
+      "og_locale": "vi_VN",
+      "file_slug": "vi",
+      "font": "\"Segoe UI\",\"Helvetica Neue\",Arial"
+    },
+    "id": {
+      "name": "Bahasa Indonesia",
+      "html_lang": "id",
+      "og_locale": "id_ID",
+      "file_slug": "id",
+      "font": "\"Segoe UI\",\"Helvetica Neue\",Arial"
+    }
+  },
+  "countries": {
+    "JP": "ja",
+    "KR": "ko",
+    "CN": "zh-cn",
+    "TW": "zh-tw",
+    "HK": "zh-tw",
+    "MO": "zh-tw",
+    "VN": "vi",
+    "US": "en-us",
+    "PR": "en-us",
+    "GU": "en-us",
+    "PH": "en-us",
+    "ID": "id"
+  },
+  "browser_language_beats_english_country": true
+}

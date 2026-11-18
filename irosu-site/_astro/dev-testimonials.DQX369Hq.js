@@ -1,0 +1,1 @@
+import{t as e}from"./Testimonials.DKwP3Tol.js?dpl=dpl_74aUw43o7S3n9NFJ1ZxBM24TaWuz";var t=class{constructor(e,t){this.main=e,this.app=t,this.triggerLoad=async()=>this.load()}async load(){this.testimonials=new e(this.main,this.app)}};export{t as default};

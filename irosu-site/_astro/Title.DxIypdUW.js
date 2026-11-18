@@ -1,0 +1,1 @@
+var e=class{constructor(e,t){this.instance=e,this.app=t,this.destroyed=!1,this.init(),this.app.on(`resize`,()=>this.resize()),this.app.on(`destroy`,()=>this.destroy())}init(){}resize(){this.destroyed}destroy(){this.destroyed||=!0}};export{e as default};
